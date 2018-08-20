@@ -1,0 +1,111 @@
+1.	American Cocker Spaniel
+
+2.	Australian Shepherd
+
+3.	Australian Silky Terrier
+
+4.	Basset Hound
+
+5.	Beagle
+
+6.	Bernese Mountain Dog
+
+7.	Border Collie
+
+8.	Boston Terrier
+
+9.	Bulldog
+
+10.	Cairn Terrier
+
+11.	Cavalier King Charles Spaniel
+
+12.	Chihuahua
+
+13.	Dachshund
+
+14.	Dalmatian
+
+15.	Doberman Pinscher
+
+16.	French Bulldog
+
+17.	German Shepherd
+
+18.	Golden Retriever
+
+19.	Great Dane
+
+20.	Greyhound
+
+21.	Irish Setter
+
+22.	Italian Greyhound
+
+23.	Labrador Retriever
+
+24.	Lhasa Apso
+
+25.	Maltese
+
+26.	Miniature American Shepherd
+
+27.	Miniature Pinscher
+
+28.	Newfoundland
+
+29.	Norwegian Elkhound
+
+30.	Norwich Terrier
+
+31.	Old English Sheepdog
+
+32.	Papillon
+
+33.	Pekingese
+
+34.	Pembroke Welsh Corgi
+
+35.	Pointer
+
+36.	Pomeranian
+
+37.	Poodle
+
+38.	Portuguese Water Dog
+
+39.	Pug
+
+40.	Rhodesian Ridgeback
+
+41.	Rough Collie
+
+42.	Rottweiler
+
+43.	Russell Terrier
+
+44.	Schipperke
+
+45.	Scottish Terrier
+
+46.	Shiba Inu
+
+47.	Shih Tzu
+
+48.	Siberian Husky
+
+49.	St. Bernard
+
+50.	Standard Schnauzer
+
+51.	Welsh Springer Spaniel
+
+52.	Welsh Terrier
+
+53.	West Highland White Terrier
+
+54.	Whippet
+
+55.	Yorkshire Terrier
+
+
