@@ -1,0 +1,53 @@
+
+	SAVE AND LOAD EXAMPLE:
+
+@echo off
+color 1f
+TITLE FARM TOWN V1.0
+setlocal enabledelayedexpansion
+::######################################
+:load
+for /f%%a in (!name!.asv)do set %%a
+:check
+if exist !fname!!lname.asv(
+echo WELCOME BACK !fname! !lname!.
+pause >nul
+goto load
+)else(
+goto sets
+)
+::########################################
+
+:sets
+cls 
+set corn=0
+set wheat=0
+set barley=0
+set energy=0
+set money=500
+set level=1
+set cow=0
+set chicken=0
+set pig=0
+set cowfeed=0
+set chickenfeed=0
+set pigfeed=0
+goto main
+::#########################################
+
+:save
+(echo corn=!corn!)>> !fname!!lname!.asv
+(echo wheat=!wheat!)>> !fname!!lname!.asv
+(echo barley=!barley!)>> !fname!!lname!.scr
+(echo energy=!energy!)>> !fname!!lname!.asv
+(echo money=!money!)>> !fname!!lname!.asv
+(echo level=!level!)>> !fname!!lname!.asv
+(echo cow=!cow!)>> !fname!!lname!.asv
+(echo chicken=!chicken!)>> !fname!!lname!.asv
+(echo pig=!pig!)>> !fname!!lname!.asv
+(echo cowfeed=!cowfeed!)>> !fname!!lname!.asv
+(echo chickenfeed=!chickenfeed!)>> !fname!!lname!.asv
+(echo pigfeed=!pigfeed!)>> !fname!!lname!.asv
+
+
+

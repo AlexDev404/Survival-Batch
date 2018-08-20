@@ -1,0 +1,34 @@
++-------------------------------------------------------------------------------------------------+
+|                                                                                                 |
+| SURVIVAL V1.3 ALPHA BETA                                                                        |
+|                                                                                                 |
+|                                                                                                 |
+|                                                                                                 |
+|           XXXXXXXXXXXX    XX       XX  XXXXXXX  XX          X XX X     X    XXX       XX        |
+|           XXXXXXXXXXXX    XX       XX  XX    XX  XX        XX XX X     X    X X       XX        |
+|           XX              XX       XX  XX    XX   X       XX  XX XX   XX   XX XX      XX        |
+|           XXXXXXXXXXXX    XX       XX  XXXXXXXX   XX      X   XX  XX  X    X   XX     XX        |
+|           XXXXXXXXXXXX    XX       XX  XXXXXXXX    X     XX   XX   X XX   XXXXXXXX    XX        |
+|                     XX    XX       XX  XX    XX    XX   XX    XX   XXX    XXXXXXXXX   XX        |
+|           XXXXXXXXXXXX    XXXXXXXXXXX  XX    XX     XX X      XX    XX    XX     XXX  XXXXXXXX  |
+|           XXXXXXXXXXXX    XXXXXXXXXXX  XX    XX      XXX      XX    X     XX       X  XXXXXXXX  |
+|                                                                                                 |
+|                                                                                                 |
+|              X     X     XX     XXXXXXXXX                                                       |
+|              X     X    XXX            XX                                                       |
+|              XX   XX     XX           XX                                                        |
+|               XX  X      XX         XXX                                                         |
+|                X XX      XX         XXXXX                                                       |
+|                XXX       XX             XX                                                      |
+|                 X        XX  XX         XX                                                      |
+|                          XX  XX  XXXXXXXX                                                       |
+|                                                                                                 |
+|                                                                                                 |
+|                                                                                                 |
+|                                                                                                 |
+|                                                                                                 |
+|                                                                                                 |
+|                                                                                                 |
++-------------------------------------------------------------------------------------------------+
+
+                                            LOADING .
