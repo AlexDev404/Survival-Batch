@@ -1,2 +1,2 @@
-# Game-1-Batch
+# Survival-Batch
 A Batch ASCII Game
